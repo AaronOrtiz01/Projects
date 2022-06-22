@@ -1,5 +1,4 @@
 Links to other hosted repository
-(easy access for myself)
 
 https://github.com/UTRGVGamesComputation/spgames-aaron-bryant-jason.git
 
